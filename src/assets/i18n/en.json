@@ -1,0 +1,113 @@
+{
+    "M.Saad":"M.Saad",
+    "About":"About",
+    "Experience":"Experience",
+    "Projects":"Projects",
+    "Contact":"Contact",
+    "Hello, i'm":"Hello, i'm",
+    "Mohamed Saad":"Mohamed Saad",
+    "Frontend Developer":"Frontend Developer",
+    "Download CV":"Download CV",
+    "Contact Info":"Contact Info",
+    "Get To Know More":"Get To Know More",
+    "About Me":"About Me",
+    "years of self-learning":"years of self-learning",
+    "frontend development":"frontend development",
+    "Education":"Education",
+    "Industrial Diploma, Electrical Studies":"Industrial Diploma, Electrical Studies",
+    "Hello sir my name is Mohamed saad I am 22 years old from Tanta and exempted from military service I have been self-learning frontend development with Angular since 2023 During this time I built several projects solved different bugs and learned a lot from these experiences I also use AI tools to help me fix issues and speed up the development process I am now ready to join a team and contribute to a company as a frontend developer":"Hello sir my name is Mohamed saad I am 22 years old from Tanta and exempted from military service I have been self-learning frontend development with Angular since 2023 During this time I built several projects solved different bugs and learned a lot from these experiences I also use AI tools to help me fix issues and speed up the development process I am now ready to join a team and contribute to a company as a frontend developer",
+    "Thank you sir for taking the time to read my profile":"Thank you sir for taking the time to read my profile",
+    "Explore My":"Explore My",
+    "Frontend Development":"Frontend Development",
+    "Projects":"Projects",
+    "Browse My Recent":"Browse My Recent",
+    "ecommerce":"ecommerce",
+    "Quran":"Quran",
+    "HR Management System":"HR Management System",
+    "simple ecommarce":"simple ecommarce",
+    "Weather app":"Weather app",
+    "Details project":"Details project",
+    "Get In Touch":"Get In Touch",
+    "Contact Me":"Contact Me",
+    "Your email":"Your email",
+    "Name":"Name",
+    "Your message":"Your message",
+    "Please enter a valid email":"  Please enter a valid email",
+    "Name must be at least 3 characters":"Name must be at least 3 characters",
+    "Message must be at least 10 characters":"Message must be at least 10 characters",
+    "Name must contain letters only":"Name must contain letters only",
+    "Name required":"Name required",
+    "Send message":"Send message",
+    "Loading...":"Loading...",
+    "Sent successfully":"Sent successfully",
+    "Oops! Something went wrong":"Oops! Something went wrong",
+    "I built a modern e-commerce website powered by Firebase designed with a clean interface and smooth user experience":"I built a modern e-commerce website powered by Firebase designed with a clean interface and smooth user experience",
+    "For users the platform allows:":"For users the platform allows:",
+    "Sign up or log in using Google or Facebook accounts":"Sign up or log in using Google or Facebook accounts",
+    "Create a personal account and start shopping":"Create a personal account and start shopping",
+    "Browse products add items to the shopping cart and track their orders in real-time (delivered, rejected, or pending)":"Browse products add items to the shopping cart and track their orders in real-time (delivered, rejected, or pending)",
+    "On the admin side the dashboard provides full control over the store :" :"On the admin side the dashboard provides full control over the store :",
+    "Add new products with details like name price description and images":"Add new products with details like name price description and images",
+    "Edit or remove existing products":"Edit or remove existing products",
+    "Manage customer orders and see rejected or delivered ones":"Manage customer orders and see rejected or delivered ones",
+    "Monitor new user signups each month":"Monitor new user signups each month",
+    "Track monthly revenue across the year":"Track monthly revenue across the year",
+    "Block or unblock users when needed":"Block or unblock users when needed",
+    "The system combines ease of use with powerful management tools making it scalable and practical for future growth":"The system combines ease of use with powerful management tools making it scalable and practical for future growth",
+
+
+    "I built a dedicated website for listening to the Holy Quran and reflecting on its verses, designed with a simple and user-friendly interface to ensure a smooth experience":"I built a dedicated website for listening to the Holy Quran and reflecting on its verses, designed with a simple and user-friendly interface to ensure a smooth experience",
+"Key features include":"Key features include",
+"Choose your favorite reciter and explore all available narrations":"Choose your favorite reciter and explore all available narrations",
+"Browse the complete Quran by the narration you select":"Browse the complete Quran by the narration you select",
+"Live streaming of religious channels such as Makkah TV and Madinah TV":"Live streaming of religious channels such as Makkah TV and Madinah TV",
+"Listen to Quranic Tafseer (interpretation) in multiple languages":"Listen to Quranic Tafseer (interpretation) in multiple languages",
+"Access Quran recitations translated into different languages":"Access Quran recitations translated into different languages",
+"A built-in radio that offers continuous recitations, seasonal programs, fatwas, the Prophet’s biography, Ruqyah, daily supplications, and more":"A built-in radio that offers continuous recitations, seasonal programs, fatwas, the Prophet’s biography, Ruqyah, daily supplications, and more",
+"The platform combines rich features with ease of use, offering a valuable experience for anyone who wants to listen to or learn from the Quran":"The platform combines rich features with ease of use, offering a valuable experience for anyone who wants to listen to or learn from the Quran",
+   
+
+
+
+
+"I developed a practical software solution for managing workers and craftsmen Whether you run a factory, a company, a shop, or even a small grocery store, this tool can help you organize your business with ease and efficiency":"I developed a practical software solution for managing workers and craftsmen Whether you run a factory, a company, a shop, or even a small grocery store, this tool can help you organize your business with ease and efficiency",
+"Key Features:":"Key Features:",
+"Employee Management – Register and update worker details such as name, age, phone, ID, salary, and hire date":"Employee Management – Register and update worker details such as name, age, phone, ID, salary, and hire date",
+"Attendance Tracking – Record daily attendance and automatically calculate salaries based on working days":"Attendance Tracking – Record daily attendance and automatically calculate salaries based on working days",
+"Payments & Invoices – Keep track of monthly dues and generate detailed payment invoices":"Payments & Invoices – Keep track of monthly dues and generate detailed payment invoices",
+"Smart Search – Quickly find workers, craftsmen, or invoices":"Smart Search – Quickly find workers, craftsmen, or invoices",
+"Workplace Settings – Easily set and update your workplace name":"Workplace Settings – Easily set and update your workplace name",
+"PDF Reports – Export attendance logs and invoices as professional PDF files":"PDF Reports – Export attendance logs and invoices as professional PDF files",
+"User-Friendly Interface – 100% Arabic design with instant notifications for every action (add, update, delete)":"User-Friendly Interface – 100% Arabic design with instant notifications for every action (add, update, delete)",
+"Local Storage – All data is saved directly in the browser using LocalStorage, no server required" :"Local Storage – All data is saved directly in the browser using LocalStorage, no server required",
+"Secure Deletion – Delete individual or all records safely with":"Secure Deletion – Delete individual or all records safely with",
+"Instant Statistics – Monitor the number of workers, craftsmen, and daily attendance in real time":"Instant Statistics – Monitor the number of workers, craftsmen, and daily attendance in real time",
+"Why this software?":"Why this software?",
+"It’s simple, easy to use, fully Arabic-supported, and offers a complete solution to manage your team efficiently":"It’s simple, easy to use, fully Arabic-supported, and offers a complete solution to manage your team efficiently",
+
+
+
+
+"My very first project was a simple e-commerce website built right after learning HTML, CSS, and JavaScript":"My very first project was a simple e-commerce website built right after learning HTML, CSS, and JavaScript",
+"It’s a 5-page site where I practiced the fundamentals and added some useful features":"It’s a 5-page site where I practiced the fundamentals and added some useful features",
+"Used Regex validation in all forms to make sure the data entered is correct.":"Used Regex validation in all forms to make sure the data entered is correct.",
+"Implemented Local Storage so the data doesn’t get lost on page refresh.":"Implemented Local Storage so the data doesn’t get lost on page refresh.",
+"Added a shopping cart where you can add or remove products.":"Added a shopping cart where you can add or remove products.",
+"Integrated EmailJS to allow sending messages directly to Gmail.":"Integrated EmailJS to allow sending messages directly to Gmail.",
+"Fully responsive, working smoothly across all devices.":"Fully responsive, working smoothly across all devices.",
+
+
+
+
+
+
+
+
+
+
+"Simple weather app":"Simple weather app",
+"You can see resulte Humidity and windspeed and Temperature":"You can see resulte Humidity and windspeed and Temperature",
+"Responsive All Device":"Responsive All Device"
+
+
+}

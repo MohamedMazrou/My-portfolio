@@ -1,0 +1,113 @@
+{
+    "M.Saad":"م.سعد",
+   "About":"عني",
+   "Experience":"الخبره",
+   "Projects":"مشاريع",
+   "Contact":"تواصل",
+   "Hello, i'm":"مرحبا انا",
+   "Mohamed Saad":"محمد سعد",
+   "Frontend Developer":"مطور واجهه اماميه",
+   "Download CV":"cv تحميل  ",
+   "Contact Info":" وسائل التواصل",
+   "Get To Know More":"تعرف علي المزيد",
+   "About Me":"نبذه عني",
+   "years of self-learning":"سنوات من التعلم الذاتي",
+   "frontend development":"تطوير الواجهات الاماميه",
+   "Education":"المؤهل العلمي",
+   "Industrial Diploma, Electrical Studies":"دبلوم فني صناعي – قسم الكهرباء",
+   "Hello sir my name is Mohamed saad I am 22 years old from Tanta and exempted from military service I have been self-learning frontend development with Angular since 2023 During this time I built several projects solved different bugs and learned a lot from these experiences I also use AI tools to help me fix issues and speed up the development process I am now ready to join a team and contribute to a company as a frontend developer":"مرحبا سيدي انا محمد سعد عمرى 22 سنه من طنطا ومعفي من الخدمه العسكريه من سنة 2023 وانا اتعلم تطوير الواجهات الاماميه بأستخدام انجولر بشكل ذاتي وفي الفتره دي نفذت عدت مشاريع واتعلمت الكثير من خلال مواجهة الاخطاء وحلها كما استعين بأدوات الذكاء الاصطناعي لمساعدتي في تسريع عملية التطوير والتغلب علي المشكلات والان انا مستعد للأنضمام الي فريق عمل والمساهمه كمطور واجهات اماميه في شركه",
+   "Thank you sir for taking the time to read my profile":"شكرا لك سيدي على تخصيص الوقت لقراءة ملف التعريف الخاص بي",
+   "Explore My":"تعرف علي اكتر",
+   "Frontend Development":"تطوير الواجهات الاماميه",
+   "Projects":"مشاريع",
+   "Browse My Recent":"اطلع علي اخر إنجازاتي",
+    "ecommerce":" متجر الكتروني ",
+    "Quran":" منصة قرأن كريم",
+    "HR Management System":"نظام إدارة الموظفين",
+    "simple ecommarce":"متجر الكتروني بسيط",
+    "Weather app":" تطبيق الطقس",
+    "Details project":"تفاصيل المشروع",
+    "Get In Touch":" خلينا على تواصل",
+    "Contact Me":"ابعتلي",
+    "Your email":"البريد الالكتروني",
+    "Name":"الاسم",
+    "Your message":"رسالتك",
+    "Please enter a valid email":"يرجي ادخال بريد الكتروني صالح",
+    "Name must be at least 3 characters":"الاسم يجب يكون 3 حروف أو أكتر",
+    "Message must be at least 10 characters":"الرساله يجب يكون 10 حروف او اكتر",
+    " Name must contain letters only":"الاسم يجب يحتوي على حروف فقط",
+    "Name required":"الاسم مطلوب",
+    "Send message":"ارسال الرساله",
+    "Loading...":"يرجي الانتظار",
+    "Sent successfully":"تم الارسال بنجاح",
+    "Oops! Something went wrong":"حدث خطأ غير متوقع",
+    "I built a modern e-commerce website powered by Firebase designed with a clean interface and smooth user experience":"عملت متجر إلكتروني متكامل مربوط بفايربيس، مصمم بشكل عصري وسهل الاستخدام علشان يوفر تجربة مريحة للمستخدم.",
+    "For users the platform allows:":":بالنسبة للعميل",
+    "Sign up or log in using Google or Facebook accounts":"يقدر يعمل حساب أو يسجل دخول بحسابه على جوجل أو فيسبوك",
+    "Create a personal account and start shopping":"إنشاء حساب شخصي والبدء في التسوق",
+    "Browse products add items to the shopping cart and track their orders in real-time (delivered, rejected, or pending)":"تصفح المنتجات، إضافتها لعربة التسوق، ومتابعة حالة الطلبات لحظة بلحظة (مستلمة، مرفوضة، أو قيد الانتظار)",
+   "On the admin side the dashboard provides full control over the store :": "أما من ناحية الإدارة (الـ Dashboard) فهي بتدي تحكم كامل في المتجر",
+
+    "Add new products with details like name price description and images":"إضافة منتجات جديدة مع تفاصيلها (اسم، سعر، وصف، وصور)",
+    "Edit or remove existing products":"تعديل أو حذف المنتجات الموجودة",
+    "Manage customer orders and see rejected or delivered ones":"إدارة طلبات العملاء ومعرفة الطلبات المستلمة أو المرفوضة",
+    "Monitor new user signups each month":"متابعة تسجيلات المستخدمين الجدد كل شهر",
+    "Track monthly revenue across the year":"تتبع الإيرادات الشهرية على مدار السنة",
+    "Block or unblock users when needed":"حظر أو رفع الحظر عن المستخدمين عند الحاجة",
+"The system combines ease of use with powerful management tools making it scalable and practical for future growth":"النظام بيجمع بين سهولة الاستخدام وأدوات الإدارة القويه وده بيخليه قابل للتوسع وعملي للنمو في المستقبل",
+
+
+
+"I built a dedicated website for listening to the Holy Quran and reflecting on its verses, designed with a simple and user-friendly interface to ensure a smooth experience":"عملت موقع مخصص للاستماع للقرآن الكريم وتدبّر آياته، بواجهة سهلة وبسيطة تتيح للمستخدم تجربة مميزة.",
+"Key features include":"مميزات الموقع",
+"Choose your favorite reciter and explore all available narrations":"اختيار اسم القارئ المفضل وسماع جميع الروايات المتاحة له",
+"Browse the complete Quran by the narration you select":"تصفح سور القرآن كاملة حسب الرواية المختارة",
+"Live streaming of religious channels such as Makkah TV and Madinah TV":"دعم البث المباشر للقنوات الدينية مثل قناة مكة وقناة المدينة المنورة",
+"Listen to Quranic Tafseer (interpretation) in multiple languages":"الاستماع لتفسير جميع الآيات بعدة لغات",
+"Access Quran recitations translated into different languages":"إمكانية الاستماع للسور القرآنية مترجمة بمختلف اللغات",
+"A built-in radio that offers continuous recitations, seasonal programs, fatwas, the Prophet’s biography, Ruqyah, daily supplications, and more":"راديو خاص يضم تلاوات القُرّاء، المواسم الدينية، الفتاوى، السيرة النبوية، الرقية الشرعية، والأذكار",
+"The platform combines rich features with ease of use, offering a valuable experience for anyone who wants to listen to or learn from the Quran":"الموقع بيجمع بين تعدد المزايا وسهولة الاستخدام، وبيقدّم تجربة ثرية لأي شخص عايز يستمع أو يتعلم من القرآن الكريم",
+
+
+
+"I developed a practical software solution for managing workers and craftsmen Whether you run a factory, a company, a shop, or even a small grocery store, this tool can help you organize your business with ease and efficiency":"طورت برنامج عملي لإدارة العمال والصنايعية سواء كنت صاحب مصنع، شركة، متجر، أو حتى بقالة صغيرة، الأداة دي هتساعدك تنظّم شغلك بسهولة وكفاءة",
+"Key Features:":": أهم المميزات",
+"Employee Management – Register and update worker details such as name, age, phone, ID, salary, and hire date":"إدارة الموظفين – سجل وحدث بيانات العمال زي (الاسم، العمر، الهاتف، البطاقة، الراتب، وتاريخ التعيين)",
+"Attendance Tracking – Record daily attendance and automatically calculate salaries based on working days":"تتبع الحضور – سجل الحضور يوميًا واحسب الرواتب تلقائيًا بناءً على أيام العمل",
+"Payments & Invoices – Keep track of monthly dues and generate detailed payment invoices":"المستحقات والفواتير – تابع المستحقات الشهرية واطبع فواتير دفع بتفاصيل كاملة",
+"Smart Search – Quickly find workers, craftsmen, or invoices":"بحث ذكي – ابحث بسرعة عن العمال أو الصنايعية أو الفواتير",
+"Workplace Settings – Easily set and update your workplace name":"إعدادات مكان العمل – حدد أو عدّل اسم مكان عملك بسهولة",
+"PDF Reports – Export attendance logs and invoices as professional PDF files":" تقارير PDF – صدّر سجلات الحضور والفواتير كملفات PDF احترافية. ",
+"User-Friendly Interface – 100% Arabic design with instant notifications for every action (add, update, delete)":"واجهة سهلة الاستخدام – تصميم عربي 100% مع إشعارات فورية عند أي عملية (إضافة، تعديل، حذف)",
+"Local Storage – All data is saved directly in the browser using LocalStorage, no server required" :"تخزين محلي – كل البيانات بتتحفظ في المتصفح باستخدام لوكال استورج من غير ما تحتاج سيرفر",
+"Secure Deletion – Delete individual or all records safely with":"حذف آمن – امسح البيانات سواء فردية أو كاملة بشكل آمن مع رسائل تأكيد",
+"Instant Statistics – Monitor the number of workers, craftsmen, and daily attendance in real time":"إحصائيات فورية – تابع عدد العمال والصنايعية وأيام الحضور لحظة بلحظة",
+"Why this software?":"ليه البرنامج ده",
+"It’s simple, easy to use, fully Arabic-supported, and offers a complete solution to manage your team efficiently":"لأنه بسيط وسهل الاستخدام، داعم بالكامل للغة العربية، وبيوفرلك حل شامل لإدارة فريقك بكفاءة",
+
+
+
+"My very first project was a simple e-commerce website built right after learning HTML, CSS, and JavaScript":"أول مشروع عملته كان موقع متجر إلكتروني بسيط، عملته بعد ما خلصت تعلم HTML, CSS, و JavaScript.",
+"It’s a 5-page site where I practiced the fundamentals and added some useful features":"الموقع مكوّن من 5 صفحات، وكنت بجرب فيه الأساسيات وكمان أضفت شوية مميزات عملية",
+"Used Regex validation in all forms to make sure the data entered is correct.":"استخدمت Regex في كل الـ Forms علشان أتأكد إن البيانات المدخلة صحيحة.",
+"Implemented Local Storage so the data doesn’t get lost on page refresh.":"اعتمدت على Local Storage علشان البيانات متضيعش لما الصفحة تتعملها Refresh.",
+"Added a shopping cart where you can add or remove products.":"ضفت عربة تسوّق تقدر تضيف فيها منتجات أو تحذفها.",
+"Integrated EmailJS to allow sending messages directly to Gmail.":"ربطت الموقع بخدمة EmailJS علشان المستخدم يقدر يبعث رسالة مباشرة على Gmail",
+"Fully responsive, working smoothly across all devices.":"الموقع متجاوب بالكامل وبيشتغل كويس على كل الأجهزة.",
+
+
+
+
+
+
+
+
+
+
+
+
+"Simple weather app":"تطبيق بسيط للطقس",
+"You can see resulte Humidity and windspeed and Temperature":"تقدر تشوف فيه درجة الحرارة، نسبة الرطوبة، وسرعة الرياح",
+"Responsive All Device":"وبيشتغل بشكل متجاوب على كل الأجهزة"
+
+}
