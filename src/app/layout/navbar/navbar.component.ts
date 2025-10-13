@@ -25,7 +25,7 @@ export class NavbarComponent {
     }
   }
   showNav: boolean = false;
-
+ hiddenNav :boolean = false;
   changeMood(): void {
     this.darkmood = !this.darkmood;
     if (this.darkmood == false) {
@@ -41,15 +41,32 @@ export class NavbarComponent {
     const lang = (event.target as HTMLSelectElement).value;
     localStorage.setItem('lang', lang);
     this._LangService.switchLang(lang);
+    
   }
 
-  showNavMobile(): void {
-    this.showNav = !this.showNav;
-    if(this.showNav){
+ 
+fnHiddenNav():void{
+  this.hiddenNav = !this.hiddenNav;
+  this.showNav = true
+     if(this.hiddenNav){
       document.body.style.overflow = "hidden";
     }
     else document.body.style.overflow = 'auto';
   }
+
+
+
+  showNavMobile(): void {
+    this.showNav = !this.showNav;
+    
+   
+    if(this.showNav){
+      document.body.style.overflow = "hidden";
+    }
+    else {document.body.style.overflow = 'auto';} 
+  }
+
+ 
 
   topScroll(): void {
     window.scroll({
