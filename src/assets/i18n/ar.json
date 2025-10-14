@@ -15,7 +15,7 @@
    "frontend development":"تطوير الواجهات الاماميه",
    "Education":"المؤهل العلمي",
    "Industrial Diploma, Electrical Studies":"دبلوم فني صناعي – قسم الكهرباء",
-    "I’m a self-taught Frontend Developer with hands-on experience in Angular, HTML, CSS, tailwind, and JavaScript and typescript,. Since 2023,": "أنا مطوّرة واجهات أمامية تعلمت بنفسي ولدي خبرة عملية في Angular وHTML وCSS وTailwind وJavaScript وTypeScript، أعمل في هذا المجال منذ عام 2023.",
+    "I’m a self-taught Frontend Developer with hands-on experience in Angular, HTML, CSS, tailwind, and JavaScript and typescript,. Since 2023,": "أنا مطوّر واجهات أمامية تعلمت بنفسي ولدي خبرة عملية في Angular وHTML وCSS وTailwind وJavaScript وTypeScript، أعمل في هذا المجال منذ عام 2023.",
     "I’ve built and deployed several projects, solved complex bugs, and continuously improved my development workflow using AI-powered tools.":"طورت ونشرت عدة مشاريع، وحليت مشكلات برمجية معقدة، وطوّرت أسلوبي في العمل بشكل مستمر باستخدام أدوات مدعومة بالذكاء الاصطناعي.",
     "I’m passionate about creating clean, responsive, and user-friendly web interfaces, and I’m always eager to learn new technologies that enhance performance and user experience.":"أنا شغوف بإنشاء واجهات ويب أنيقة وسريعة وسهلة الاستخدام، ودائمًا متحمّس لتعلّم التقنيات الجديدة التي تحسّن الأداء وتجربة المستخدم.",
     "I’m now looking for an opportunity to join a collaborative team where I can contribute to real-world projects, grow as a developer, and add value through both technical skills and creativity.":"أبحث الآن عن فرصة للانضمام إلى فريق عمل متعاون أساهم معه في مشاريع حقيقية، وأنمّي مهاراتي كمطوّر، وأضيف قيمة من خلال الجمع بين الإبداع والمهارات التقنية.",
@@ -24,7 +24,7 @@
    "Frontend Development":"تطوير الواجهات الاماميه",
    "Projects":"مشاريع",
    "Browse My Recent":"اطلع علي اخر إنجازاتي",
-    "ecommerce":" متجر الكتروني ",
+    "full stack ecommerce":" متجر الكتروني متكامل",
     "Quran":" منصة قرأن كريم",
     "HR Management System":"نظام إدارة الموظفين",
     "simple ecommarce":"متجر الكتروني بسيط",
@@ -58,7 +58,7 @@
     "Track monthly revenue across the year":"تتبع الإيرادات الشهرية على مدار السنة",
     "Block or unblock users when needed":"حظر أو رفع الحظر عن المستخدمين عند الحاجة",
 "The system combines ease of use with powerful management tools making it scalable and practical for future growth":"النظام بيجمع بين سهولة الاستخدام وأدوات الإدارة القويه وده بيخليه قابل للتوسع وعملي للنمو في المستقبل",
-
+"Log in to Dashboard:":":تسجيل الدخول الي لوحة التحكم",
 
 
 "I built a dedicated website for listening to the Holy Quran and reflecting on its verses, designed with a simple and user-friendly interface to ensure a smooth experience":"عملت موقع مخصص للاستماع للقرآن الكريم وتدبّر آياته، بواجهة سهلة وبسيطة تتيح للمستخدم تجربة مميزة.",
