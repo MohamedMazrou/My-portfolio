@@ -10,7 +10,7 @@
 
     <!-- button -->
      <div class="flex p-3 justify-evenly gap-3 items-center">
-     <button class="p-1.5 md:p-2 lg:p-4 border rounded-3xl border-black hover:bg-black hover:text-white outline-none transition-all font-bold duration-300">{{'Download CV'|translate}}</button>
+     <button (click)="downloadCv()" class="p-1.5 md:p-2 lg:p-4 border rounded-3xl border-black hover:bg-black hover:text-white outline-none transition-all font-bold duration-300">{{'Download CV'|translate}}</button>
      <button class="p-1.5 md:p-2 lg:p-4 border rounded-3xl border-black bg-black text-white  font-bold outline-none">{{'Contact Info'|translate}}</button>
 
      </div>

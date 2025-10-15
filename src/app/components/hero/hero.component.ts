@@ -13,4 +13,8 @@ import { TranslateModule } from '@ngx-translate/core';
 })
 export class HeroComponent {
   constructor(public _LangService: LangService) { }
+
+  downloadCv():void{
+    window.open('https://drive.google.com/uc?export=download&id=1fIVcQgwQ4vC2juiQ1uTrGMimZJiZ4uru', '_blank')
+  }
 }
