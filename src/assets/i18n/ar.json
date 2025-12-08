@@ -61,6 +61,23 @@
 "Log in to Dashboard:":":تسجيل الدخول الي لوحة التحكم",
 
 
+"full stack FoodyNow":"تطبيق فودي ناو متكامل",
+"I built a food-ordering application with a Laravel backend that allows users to":"أنا بنيت تطبيق لطلب الطعام باستخدام Laravel في الباك اند، وبيوفر للمستخدمين المميزات دي",
+"Create an account and activate it using an OTP sent to their phone number":"إنشاء حساب وتفعيله من خلال كود OTP بيتبعت على رقم الموبايل",
+"Use “Forgot Password” and “Reset Password” features":"استخدام خاصية (نسيت كلمة المرور) و(إعادة تعيين كلمة المرور)",
+"Edit and update their profile":"تعديل وتحديث الملف الشخصي",
+"Add meals to the shopping cart and remove them anytime":"إضافة وجبات لعربة التسوق وحذفها في أي وقت",
+"Browse meals by category":"تصفح الوجبات حسب الفئة",
+"Search for any meal and view detailed information about it":"البحث عن أي وجبة ومعرفة التفاصيل الكاملة عنها",
+"Store the auth token in cookies for enhanced security":"تخزين الـ Auth Token داخل الـ Cookies لزيادة الأمان",
+"Enjoy real-time interface updates using Signals":"الاستمتاع بتحديثات فورية للواجهة باستخدام Signals",
+"Add a payment card and select its type":"إضافة بطاقة دفع واختيار نوعها",
+"Receive notifications for all important actions in the application":"استقبال إشعارات لكل الإجراءات المهمة داخل التطبيق",
+"Navigate through a clean, modern, and user-friendly design with eye-comfortable colors":"التنقل داخل تصميم نظيف وعصري وسهل الاستخدام بألوان مريحة للعين",
+"Experience a fully responsive layout across all devices":"تجربة تصميم متجاوب بالكامل على كل الأجهزة",
+
+
+
 "I built a dedicated website for listening to the Holy Quran and reflecting on its verses, designed with a simple and user-friendly interface to ensure a smooth experience":"عملت موقع مخصص للاستماع للقرآن الكريم وتدبّر آياته، بواجهة سهلة وبسيطة تتيح للمستخدم تجربة مميزة.",
 "Key features include":"مميزات الموقع",
 "Choose your favorite reciter and explore all available narrations":"اختيار اسم القارئ المفضل وسماع جميع الروايات المتاحة له",

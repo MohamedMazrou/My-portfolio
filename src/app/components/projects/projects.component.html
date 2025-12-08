@@ -14,6 +14,7 @@
 
 
   <div class=" grid md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-7   p-4 ">
+    <!-- ecommarce -->
    <div class="parent relative border gap-6   rounded-3xl xl:p-11 flex flex-col justify-start items-center">
         <div class="relative ">
           <img class=" border rounded-3xl" src="../../../assets/project-1/2.png" alt="">  
@@ -40,6 +41,39 @@
      <div class="flex justify-center gap-7 w-full items-center p-3">
           <img class="h-14" src="../../../assets/Angular.png" alt="">
           <button (click)="  showProjectandOverlay('project1')" class="bg-black dark:bg-zinc-600 text-white rounded-md p-3">{{"Details project" |translate}} </button>
+
+     </div>
+
+    </div>
+
+
+    <!-- foodify -->
+   <div class="parent relative border gap-6   rounded-3xl xl:p-11 flex flex-col justify-start items-center">
+        <div class="relative ">
+          <img class=" border rounded-3xl" src="../../../assets/project foodify/img-1.png" alt="">  
+
+             <div class= "childCard flex justify-center items-center gap-4 transition-all duration-300  absolute inset-0 rounded-3xl opacity-0  bg-black/50 ">
+    <a target="_blank" title="repo" href="https://github.com/MohamedMazrou/Foodify-Full-Stack-Application">
+     <svg  class="w-12 h-12 bg-black  rounded-full cursor-pointer text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+  <path fill-rule="evenodd" d="M12.006 2a9.847 9.847 0 0 0-6.484 2.44 10.32 10.32 0 0 0-3.393 6.17 10.48 10.48 0 0 0 1.317 6.955 10.045 10.045 0 0 0 5.4 4.418c.504.095.683-.223.683-.494 0-.245-.01-1.052-.014-1.908-2.78.62-3.366-1.21-3.366-1.21a2.711 2.711 0 0 0-1.11-1.5c-.907-.637.07-.621.07-.621.317.044.62.163.885.346.266.183.487.426.647.71.135.253.318.476.538.655a2.079 2.079 0 0 0 2.37.196c.045-.52.27-1.006.635-1.37-2.219-.259-4.554-1.138-4.554-5.07a4.022 4.022 0 0 1 1.031-2.75 3.77 3.77 0 0 1 .096-2.713s.839-.275 2.749 1.05a9.26 9.26 0 0 1 5.004 0c1.906-1.325 2.74-1.05 2.74-1.05.37.858.406 1.828.101 2.713a4.017 4.017 0 0 1 1.029 2.75c0 3.939-2.339 4.805-4.564 5.058a2.471 2.471 0 0 1 .679 1.897c0 1.372-.012 2.477-.012 2.814 0 .272.18.592.687.492a10.05 10.05 0 0 0 5.388-4.421 10.473 10.473 0 0 0 1.313-6.948 10.32 10.32 0 0 0-3.39-6.165A9.847 9.847 0 0 0 12.007 2Z" clip-rule="evenodd"/>
+</svg>
+  </a>
+  
+  <a target="_blank" title="live" href="https://foodify-neon.vercel.app/signin">
+    <svg  class="w-12 h-12 bg-black  rounded-full cursor-pointer text-white p-2"  aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 14v4.833A1.166 1.166 0 0 1 16.833 20H5.167A1.167 1.167 0 0 1 4 18.833V7.167A1.166 1.166 0 0 1 5.167 6h4.618m4.447-2H20v5.768m-7.889 2.121 7.778-7.778"/>
+</svg> 
+  </a>
+</div>
+
+</div>
+     
+
+     <h2 class="text-4xl xl:text-5xl mt-8 text-center font-bold">{{ "full stack FoodyNow" | translate }}    </h2>
+
+     <div class="flex justify-center gap-7 w-full items-center p-3">
+          <img class="h-14" src="../../../assets/Angular.png" alt="">
+          <button (click)="  showProjectandOverlay('foodify')" class="bg-black dark:bg-zinc-600 text-white rounded-md p-3">{{"Details project" |translate}} </button>
 
      </div>
 
@@ -253,6 +287,61 @@
 
   </div>
   </div>
+
+
+    <div [ngClass]="{'flex scale-100 ':project1 == 'foodify', ' scale-0':project1 !=='foodify'}" class="flex transition duration-300  dark:bg-zinc-800 flex-col bg-white p-3 gap-4 overflow-auto h-3/4 shadow-md rounded-xl -translate-x-1/2 fixed top-1/2 -translate-y-1/2 z-50 left-1/2">
+      
+   
+  
+       <swiper-container
+  slides-per-view="1"
+  space-between="10"
+  loop="true"
+  navigation="true"
+   class="smooth-swiper md:w-[700px]  xl:w-[800px]  shadow-slider"
+
+
+  
+  >
+    <!-- <swiper-slide><img class=" " src="../../../assets/project-1/1.png" alt=""></swiper-slide> -->
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-1.png" alt=""></swiper-slide>
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-2.png" alt=""></swiper-slide>
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-3.png" alt=""></swiper-slide>
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-4.png" alt=""></swiper-slide>
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-5.png" alt=""></swiper-slide>
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-6.png" alt=""></swiper-slide>
+    <!-- <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-7.png" alt=""></swiper-slide>
+    <swiper-slide><img loading="lazy" class=" " src="../../../assets/project foodify/img-1.png" alt=""></swiper-slide> -->
+     </swiper-container>
+ 
+
+  
+
+
+  <div class="p-2">
+    <p dir="rtl" class="font-semibold text-left">{{'I built a food-ordering application with a Laravel backend that allows users to' | translate}} </p>
+    <p dir="rtl" class="text-left">{{'Create an account and activate it using an OTP sent to their phone number'|translate}}</p>
+    <p>{{'Use “Forgot Password” and “Reset Password” features'|translate}}</p>
+    <p>{{'Edit and update their profile'|translate}}</p>
+    <p>{{'Add meals to the shopping cart and remove them anytime'|translate}}</p>
+    <p >{{'Browse meals by category'|translate}}</p>
+    <p>{{'Search for any meal and view detailed information about it'|translate}}</p>
+    <p dir="rtl" class="text-left">{{'Store the auth token in cookies for enhanced security'|translate}}</p>
+    <p dir="rtl" class="text-left">{{'Enjoy real-time interface updates using Signals'|translate}}</p>
+    <p>{{'Add a payment card and select its type'|translate}}</p>
+    <p>{{'Receive notifications for all important actions in the application'|translate}}</p>
+    <p>{{'Navigate through a clean, modern, and user-friendly design with eye-comfortable colors'|translate}}</p>
+    <p>{{'Experience a fully responsive layout across all devices'|translate}}</p>
+        <p class="font-semibold">{{'OTP:'|translate}} <span class="underline"> 1234</span></p>
+        
+
+
+
+  </div>
+  </div>
+
+
+   
 
   <!-- project 2 -->
     <div [ngClass]="{'flex scale-100 ':project1 == 'project2', 'scale-0':project1 !=='project2'}" class="flex transition duration-300 dark:bg-zinc-800 flex-col bg-white p-3 gap-4 overflow-auto h-3/4 shadow-md rounded-xl -translate-x-1/2 fixed top-1/2 -translate-y-1/2 z-50 left-1/2">
