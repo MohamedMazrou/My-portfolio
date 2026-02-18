@@ -22,6 +22,8 @@ import { provideLottieOptions } from 'ngx-lottie';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader();
 }
+
+
 export const appConfig: ApplicationConfig = {
   providers: [
     provideRouter(routes),
